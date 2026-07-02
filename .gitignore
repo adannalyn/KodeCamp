@@ -1,0 +1,28 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment variables (Secrets)
+.env
+.env.*
+!*.example
+
+# Databases
+*.db
+*.sqlite3
+
+# IDEs
+.vscode/
+.idea/
+bin/
+include/
+lib/
+lib64/
+lib64
+pyvenv.cfg
+
